@@ -10,7 +10,7 @@ const DEATH_SCREEN = preload("res://Scenes/DeathScreen.tscn")
 
 func _die():
 	super() #calls _die() on base-class CharacterBase
-	
+	#Scream for death
 	fsm.force_change_state("Die")
 	var death_scene = DEATH_SCREEN.instantiate()
 	add_child(death_scene)
