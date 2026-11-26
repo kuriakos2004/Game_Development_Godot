@@ -29,25 +29,6 @@ This 2D Pixelart, TopDown action Starter Project include all the basics you need
 
 ![Screenshot](https://github.com/ForlornU/Images/blob/6402e2b16b4515ed8c3ad3dccde223aca574fdc0/basement02pic.png)
 
-## Getting Started
-
-To get started with this project, follow these steps:
-
-1. Clone the repository to your local machine.
-2. Open the project with Godot 4.2 or later
-3. Play the included levels, explore the different scripts
-4. Continue working on the project and change things as you go
-	/ Import snippets or parts into your own projects
-
-I am also creating a series of videos to walk you though the different parts of this project as well as a written guide
-
-- Brief overview: 
-	- https://youtu.be/eD9dirVaffA
-- Finite State Machine:
-	- https://youtu.be/i0Y6anqiJ-g
-- Coming soon:
-	- Tutorials for the different parts of this project
-
 Godot Asset Library Link:
 https://godotengine.org/asset-library/asset/2397
 
